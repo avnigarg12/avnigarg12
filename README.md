@@ -20,7 +20,7 @@ Hi 👋 My name is Avani Garg
 
 ## 🚀 Projects
 
-<H1> TRADEMIND AI</H1>
+<H1> TradeMind AI </H1>
 
 <p>
   TradeAI is an AI-powered portfolio management and market analysis platform designed to help investors make informed decisions. The application enables users to track their investments, monitor portfolio performance, visualize real-time stock prices through interactive charts and graphs, stay updated with the latest financial and market news, and receive personalized Buy, Hold, or Sell recommendations based on machine learning models, predictive analytics, and market trends. With an intuitive dashboard and real-time insights, TradeAI empowers both beginner and experienced investors to make smarter and more confident investment decisions.

@@ -17,9 +17,13 @@ Hi 👋 My name is Avani Garg
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/avnigarg12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/avani-garg-6705982b6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+## 🚀 Projects
 
-<a href="http://www.github.com/avnigarg12"><img src="https://github-readme-stats.vercel.app/api?username=avnigarg12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="avnigarg12's GitHub stats" /></a>
+<p>
+  TradeAI is an AI-powered portfolio management and market analysis platform designed to help investors make informed decisions. The application enables users to track their investments, monitor portfolio performance, visualize real-time stock prices through interactive charts and graphs, stay updated with the latest financial and market news, and receive personalized Buy, Hold, or Sell recommendations based on machine learning models, predictive analytics, and market trends. With an intuitive dashboard and real-time insights, TradeAI empowers both beginner and experienced investors to make smarter and more confident investment decisions.
+</p>
+🌐 Live Demo: https://starlit-zabaione-e8a9f7.netlify.app/
+
+
 

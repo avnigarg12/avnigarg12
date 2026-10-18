@@ -52,6 +52,9 @@ An AI-powered stock market analysis platform designed to help users explore fina
 <li>Used <b>MongoDB</b> and external APIs for company-specific stock market analysis.</li>
 <li>Built with React, Node.js, Express, and MongoDB.</li>
 </ul>
+<b>Deployment:</b> Frontend hosted on Netlify and backend hosted on Render.
+<br/><br/>
+<a href="https://starlit-zabaione-e8a9f7.netlify.app/">Live Demo</a> |
 <a href="https://github.com/shri31negi/AI-agent-for-personalized-Stock-trading-and-market-advisory">View Project on GitHub</a>
 </td>
 <td width="50%" valign="top">
@@ -82,8 +85,6 @@ An expense management system designed to help users track personal expenses and 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=avnigarg12&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B794F6&icon_color=8B5CF6&text_color=FFFFFF" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnigarg12&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B794F6&text_color=FFFFFF" />
-
-<img src="https://streak-stats.demolab.com?user=avnigarg12&theme=midnight-purple&hide_border=true&background=0D1117&ring=B794F6&fire=8B5CF6&currStreakLabel=B794F6" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnigarg12&bg_color=0D1117&color=B794F6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>

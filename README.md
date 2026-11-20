@@ -43,8 +43,8 @@ AI / ML & Core Concepts
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>📈 TradeMind AI — Stock Market Advisory & Analytics Platform</h3>
-An AI-powered stock market analysis platform designed to help users explore financial market information and understand company-specific stock trends.
+<h3>📈 TradeMind — Stock Market Advisory & Analytics Platform</h3>
+An  stock market analysis platform designed to help users explore financial market information and understand company-specific stock trends.
 <br/><br/>
 <ul>
 <li>Integrated the <b>yfinance API</b> to access financial market data.</li>
